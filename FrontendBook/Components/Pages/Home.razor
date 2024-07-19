@@ -1,0 +1,22 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Autores</h1>
+
+
+<RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" AllowAlternatingRows="false"
+                AllowSorting="true" PageSize="4" AllowPaging="true" GridLines="DataGridGridLines.Both"
+                PagerHorizontalAlign="HorizontalAlign.Left" ShowPagingSummary="true"
+                Data="@listAuthors" TItem="authors" ColumnWidth="300px" LogicalFilterOperator="LogicalFilterOperator.Or" 
+                style="--rz-grid-header-background-color: #3374FF;">
+
+                <Columns>
+        <RadzenDataGridColumn TItem="authors" Property="id" Filterable="false" Title="ID"
+                                          Width="80px" TextAlign="TextAlign.Center" />
+
+        <RadzenDataGridColumn TItem="authors" Property="name" Filterable="false" Title="Name"
+                                          Width="80px" TextAlign="TextAlign.Center" />
+                </Columns>
+
+</RadzenDataGrid>

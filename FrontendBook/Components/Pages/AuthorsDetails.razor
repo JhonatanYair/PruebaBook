@@ -1,0 +1,51 @@
+﻿@page "/authorDetails"
+@page "/authorDetails/{id:int}"
+@inject NavigationManager NavigationManager
+
+<h3>AuthorsDetails</h3>
+
+<RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" AllowAlternatingRows="false"
+                AllowSorting="true" PageSize="4" AllowPaging="true" GridLines="DataGridGridLines.Both"
+                PagerHorizontalAlign="HorizontalAlign.Left" ShowPagingSummary="true"
+                Data="@listBooks" TItem="authors" ColumnWidth="300px" LogicalFilterOperator="LogicalFilterOperator.Or"
+                style="--rz-grid-header-background-color: #3374FF;">
+
+    <Columns>
+        <RadzenDataGridColumn TItem="books" Property="id" Filterable="false" Title="ID"
+                              Width="80px" TextAlign="TextAlign.Center" />
+
+        <RadzenDataGridColumn TItem="authors" Property="title" Filterable="false" Title="Title"
+                              Width="80px" TextAlign="TextAlign.Center" />
+    </Columns>
+
+</RadzenDataGrid>
+
+@code {
+
+    [Parameter]
+    public int id { get; set; }
+    private HttpClient client;
+    List<books> listBooks = new List<books>();
+
+    public AuthorsDetails()
+    {
+        client = new HttpClient();
+    }
+
+    private async Task<List<books>> GetBooks()
+    {
+        var response = await client.GetAsync($"{SharedUtils.urlEndpoint}/Books");
+        response.EnsureSuccessStatusCode();
+        string responseBody = await response.Content.ReadAsStringAsync();
+        ResponseApi responseAuthors = JsonConvert.DeserializeObject<ResponseApi>(responseBody);
+        List<books> books = JsonConvert.DeserializeObject<List<books>>(responseAuthors.Object.ToString());
+        var filteredBooks = books.Where(book => book.author_id == (int?)id).ToList();
+        return filteredBooks;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        listBooks = await GetBooks();
+    }
+
+}
