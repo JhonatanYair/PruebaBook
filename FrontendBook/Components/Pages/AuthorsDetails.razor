@@ -1,21 +1,22 @@
 ﻿@page "/authorDetails"
-@page "/authorDetails/{id:int}"
+@page "/authorDetails/{id:int}/{nameAuthor}"
 @inject NavigationManager NavigationManager
 
-<h3>AuthorsDetails</h3>
+<h3>Lista de libros del autor @nameAuthor</h3>
+
+
 
 <RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" AllowAlternatingRows="false"
                 AllowSorting="true" PageSize="4" AllowPaging="true" GridLines="DataGridGridLines.Both"
                 PagerHorizontalAlign="HorizontalAlign.Left" ShowPagingSummary="true"
-                Data="@listBooks" TItem="authors" ColumnWidth="300px" LogicalFilterOperator="LogicalFilterOperator.Or"
-                style="--rz-grid-header-background-color: #3374FF;">
+                Data="@listBooks" TItem="books" LogicalFilterOperator="LogicalFilterOperator.Or">
 
     <Columns>
         <RadzenDataGridColumn TItem="books" Property="id" Filterable="false" Title="ID"
-                              Width="80px" TextAlign="TextAlign.Center" />
+                             TextAlign="TextAlign.Center" />
 
-        <RadzenDataGridColumn TItem="authors" Property="title" Filterable="false" Title="Title"
-                              Width="80px" TextAlign="TextAlign.Center" />
+        <RadzenDataGridColumn TItem="books" Property="title" Filterable="false" Title="Title"
+                              TextAlign="TextAlign.Center" />
     </Columns>
 
 </RadzenDataGrid>
@@ -24,17 +25,20 @@
 
     [Parameter]
     public int id { get; set; }
-    private HttpClient client;
-    List<books> listBooks = new List<books>();
+    [Parameter]
+    public string nameAuthor { get; set; }
+    private readonly HttpClient client;
+    private List<books> listBooks = new List<books>();
 
     public AuthorsDetails()
     {
         client = new HttpClient();
+        listBooks = new List<books>();
     }
 
     private async Task<List<books>> GetBooks()
     {
-        var response = await client.GetAsync($"{SharedUtils.urlEndpoint}/Books");
+        var response = await client.GetAsync($"{SharedUtils.urlEndpoint}/Book/{id}");
         response.EnsureSuccessStatusCode();
         string responseBody = await response.Content.ReadAsStringAsync();
         ResponseApi responseAuthors = JsonConvert.DeserializeObject<ResponseApi>(responseBody);

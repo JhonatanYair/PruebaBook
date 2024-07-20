@@ -1,37 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|c:\\users\\user\\documents\\visual studio 2022\\proyectos\\apibooktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\models\\bdbooktestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:models\\bdbooktestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|c:\\users\\user\\documents\\proyectosparagit\\pruebabook\\apibooktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|c:\\users\\user\\documents\\proyectosparagit\\pruebabook\\apibooktest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\models\\bdbooktestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:models\\bdbooktestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|c:\\users\\user\\documents\\proyectosparagit\\pruebabook\\apibooktest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\service\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\service\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:service\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\apibooktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\apibooktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F19508A3-BC43-4836-A1BB-9BCF3270FA12}|ApiBookTest.csproj|solutionrelative:apibooktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -42,52 +50,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BDBookTestContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Models\\BDBookTestContext.cs",
-              "RelativeDocumentMoniker": "Models\\BDBookTestContext.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Models\\BDBookTestContext.cs",
-              "RelativeToolTip": "Models\\BDBookTestContext.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAABgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T21:05:08.087Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T06:18:31.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-20T06:10:08.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-19T21:04:28.814Z"
+              "Title": "BDBookTestContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Models\\BDBookTestContext.cs",
+              "RelativeDocumentMoniker": "Models\\BDBookTestContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Models\\BDBookTestContext.cs",
+              "RelativeToolTip": "Models\\BDBookTestContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:05:08.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T21:04:28.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T20:58:37.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Controllers\\BookController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Controllers\\BookController.cs",
               "RelativeToolTip": "Controllers\\BookController.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +131,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Service\\BookService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Service\\BookService.cs",
               "RelativeDocumentMoniker": "Service\\BookService.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Service\\BookService.cs",
               "RelativeToolTip": "Service\\BookService.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +143,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AuthorController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Controllers\\AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Controllers\\AuthorController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Controllers\\AuthorController.cs",
               "RelativeToolTip": "Controllers\\AuthorController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +155,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AuthorService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Service\\AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Service\\AuthorService.cs",
               "RelativeDocumentMoniker": "Service\\AuthorService.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\Service\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\Service\\AuthorService.cs",
               "RelativeToolTip": "Service\\AuthorService.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ApiBookTest",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\ApiBookTest.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\ApiBookTest.csproj",
               "RelativeDocumentMoniker": "ApiBookTest.csproj",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\ApiBookTest.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\ApiBookTest.csproj",
               "RelativeToolTip": "ApiBookTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

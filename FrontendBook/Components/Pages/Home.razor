@@ -1,22 +1,30 @@
 ﻿@page "/"
 
+@rendermode InteractiveServer
+
 <PageTitle>Home</PageTitle>
 
 <h1>Autores</h1>
 
 
 <RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" AllowAlternatingRows="false"
-                AllowSorting="true" PageSize="4" AllowPaging="true" GridLines="DataGridGridLines.Both"
-                PagerHorizontalAlign="HorizontalAlign.Left" ShowPagingSummary="true"
-                Data="@listAuthors" TItem="authors" ColumnWidth="300px" LogicalFilterOperator="LogicalFilterOperator.Or" 
-                style="--rz-grid-header-background-color: #3374FF;">
+                AllowSorting="true" AllowPaging="true" GridLines="DataGridGridLines.Both"
+                PagerHorizontalAlign="HorizontalAlign.Left" ShowPagingSummary="true" PageSize="10"
+                Data="@listAuthors" TItem="authors"  LogicalFilterOperator="LogicalFilterOperator.Or">
 
                 <Columns>
-        <RadzenDataGridColumn TItem="authors" Property="id" Filterable="false" Title="ID"
-                                          Width="80px" TextAlign="TextAlign.Center" />
+                    <RadzenDataGridColumn TItem="authors" Property="id" Filterable="false" Title="ID"
+                                                     TextAlign="TextAlign.Center" />
 
-        <RadzenDataGridColumn TItem="authors" Property="name" Filterable="false" Title="Name"
-                                          Width="80px" TextAlign="TextAlign.Center" />
+                    <RadzenDataGridColumn TItem="authors" Property="name" Filterable="false" Title="Name"
+                                                      TextAlign="TextAlign.Center" />
+
+                    <RadzenDataGridColumn TItem="authors" Filterable="false" Sortable="false" TextAlign="TextAlign.Right" Width="5%">
+                        <Template Context="author">
+                            <RadzenButton ButtonStyle="ButtonStyle.Light" Icon="search" Click="@(() => redirectPage(author.id,author.name))"></RadzenButton>
+                        </Template>
+                    </RadzenDataGridColumn>
+
                 </Columns>
 
 </RadzenDataGrid>

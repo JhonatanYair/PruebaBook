@@ -2,6 +2,7 @@ using ApiBookTest.Models;
 using ApiBookTest.Repositories;
 using ApiBookTest.Service;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,6 +26,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<BDBookTestContext>(options =>
     options.UseNpgsql(connectionString));
+builder.Services.AddControllers().AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
+
 builder.Services.AddScoped<IRepository<books>, Repository<books>>();
 builder.Services.AddScoped<IRepository<authors>, Repository<authors>>();
 builder.Services.AddScoped<IAuthorService, AuthorService>();

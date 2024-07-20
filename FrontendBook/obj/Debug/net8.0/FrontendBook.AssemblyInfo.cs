@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrontendBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5637eb2f88202c6c71b261e83998dff5605ebc33")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrontendBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrontendBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

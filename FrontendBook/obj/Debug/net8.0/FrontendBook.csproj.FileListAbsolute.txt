@@ -32,3 +32,38 @@ C:\Users\user\Documents\Visual Studio 2022\Proyectos\FrontendBook\obj\Debug\net8
 C:\Users\user\Documents\Visual Studio 2022\Proyectos\FrontendBook\obj\Debug\net8.0\FrontendBook.pdb
 C:\Users\user\Documents\Visual Studio 2022\Proyectos\FrontendBook\obj\Debug\net8.0\FrontendBook.genruntimeconfig.cache
 C:\Users\user\Documents\Visual Studio 2022\Proyectos\FrontendBook\obj\Debug\net8.0\ref\FrontendBook.dll
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\FrontendBook.staticwebassets.runtime.json
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\FrontendBook.exe
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\FrontendBook.deps.json
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\FrontendBook.runtimeconfig.json
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\FrontendBook.dll
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\FrontendBook.pdb
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\Radzen.Blazor.dll
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\FrontendBook.csproj.AssemblyReference.cache
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\FrontendBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\FrontendBook.AssemblyInfoInputs.cache
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\FrontendBook.AssemblyInfo.cs
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\FrontendBook.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\FrontendBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\FrontendBook.sourcelink.json
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\staticwebassets\msbuild.FrontendBook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\staticwebassets\msbuild.build.FrontendBook.props
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FrontendBook.props
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FrontendBook.props
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\scopedcss\bundle\FrontendBook.styles.css
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\scopedcss\projectbundle\FrontendBook.bundle.scp.css
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\Frontend.206F4DC8.Up2Date
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\FrontendBook.dll
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\refint\FrontendBook.dll
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\FrontendBook.pdb
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\FrontendBook.genruntimeconfig.cache
+C:\Users\user\Documents\proyectosParaGit\PruebaBook\FrontendBook\obj\Debug\net8.0\ref\FrontendBook.dll

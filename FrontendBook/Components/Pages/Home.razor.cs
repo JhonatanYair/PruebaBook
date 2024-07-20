@@ -12,12 +12,20 @@ namespace FrontendBook.Components.Pages
 {
     public partial class Home : ComponentBase
     {
-        List<authors> listAuthors = new List<authors>();
-        HttpClient client;
+        [Inject]
+        private NavigationManager Navigation { get; set; }
+        private List<authors> listAuthors;
+        private readonly HttpClient client;
 
         public Home()
         {
             client = new HttpClient();
+            listAuthors = new List<authors>();
+        }
+
+        protected override async Task OnInitializedAsync()
+        {
+            listAuthors = await GetAuthors();
         }
 
         private async Task<List<authors>> GetAuthors(int? id = 0)
@@ -31,9 +39,10 @@ namespace FrontendBook.Components.Pages
             return authors;
         }
 
-        protected override async Task OnInitializedAsync()
+ 
+        private async void redirectPage(int id,string nameAuthor)
         {
-            listAuthors = await GetAuthors();
+            Navigation.NavigateTo($"/authorDetails/{id}/{nameAuthor}");
         }
 
     }

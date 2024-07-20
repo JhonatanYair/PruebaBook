@@ -1,58 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|c:\\users\\user\\documents\\visual studio 2022\\proyectos\\frontendbook\\components\\pages\\authorsdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\pages\\authorsdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|c:\\users\\user\\documents\\visual studio 2022\\proyectos\\frontendbook\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|c:\\users\\user\\documents\\visual studio 2022\\proyectos\\frontendbook\\shared\\listabooks.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:shared\\listabooks.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|c:\\users\\user\\documents\\visual studio 2022\\proyectos\\frontendbook\\shared\\listabooks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:shared\\listabooks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\models\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:models\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\common\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:common\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\common\\sharedutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\common\\sharedutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:common\\sharedutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|c:\\users\\user\\documents\\proyectosparagit\\pruebabook\\frontendbook\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|c:\\users\\user\\documents\\proyectosparagit\\pruebabook\\frontendbook\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\frontendbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:frontendbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|c:\\users\\user\\documents\\proyectosparagit\\pruebabook\\frontendbook\\components\\pages\\authorsdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\pages\\authorsdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|c:\\users\\user\\documents\\proyectosparagit\\pruebabook\\frontendbook\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|c:\\users\\user\\documents\\proyectosparagit\\pruebabook\\frontendbook\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\frontendbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:frontendbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|c:\\users\\user\\documents\\proyectosparagit\\pruebabook\\frontendbook\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\shared\\listabooks.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:shared\\listabooks.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\shared\\listabooks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:shared\\listabooks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\models\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:models\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\common\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0182FB-2590-4EC1-B4C5-5C9035D5A7FE}|FrontendBook.csproj|solutionrelative:common\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,176 +82,235 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T06:38:24.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-20T06:36:42.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AuthorsDetails.razor",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Components\\Pages\\AuthorsDetails.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Pages\\AuthorsDetails.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\AuthorsDetails.razor",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Components\\Pages\\AuthorsDetails.razor",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Pages\\AuthorsDetails.razor",
               "RelativeToolTip": "Components\\Pages\\AuthorsDetails.razor",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAAC8AAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-19T22:39:03.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListaBooks.razor.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Shared\\ListaBooks.razor.cs",
-              "RelativeDocumentMoniker": "Shared\\ListaBooks.razor.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Shared\\ListaBooks.razor.cs",
-              "RelativeToolTip": "Shared\\ListaBooks.razor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T22:26:38.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ListaBooks.razor",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Shared\\ListaBooks.razor",
-              "RelativeDocumentMoniker": "Shared\\ListaBooks.razor",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Shared\\ListaBooks.razor",
-              "RelativeToolTip": "Shared\\ListaBooks.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-19T22:24:55.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "books.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Models\\books.cs",
-              "RelativeDocumentMoniker": "Models\\books.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Models\\books.cs",
-              "RelativeToolTip": "Models\\books.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T21:33:07.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Home.razor.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Components\\Pages\\Home.razor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Pages\\Home.razor.cs",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Components\\Pages\\Home.razor.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Pages\\Home.razor.cs",
               "RelativeToolTip": "Components\\Pages\\Home.razor.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T21:29:53.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Components\\_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\_Imports.razor",
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-19T21:21:19.708Z",
+              "WhenOpened": "2024-07-19T21:21:19.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrontendBook.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\FrontendBook.csproj",
+              "RelativeDocumentMoniker": "FrontendBook.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\FrontendBook.csproj",
+              "RelativeToolTip": "FrontendBook.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-19T19:56:40.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-19T21:24:16.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "authors.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Models\\authors.cs",
-              "RelativeDocumentMoniker": "Models\\authors.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Models\\authors.cs",
-              "RelativeToolTip": "Models\\authors.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T21:33:00.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SharedUtils.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Common\\SharedUtils.cs",
-              "RelativeDocumentMoniker": "Common\\SharedUtils.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Common\\SharedUtils.cs",
-              "RelativeToolTip": "Common\\SharedUtils.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T21:45:53.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ResponseApi.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Common\\ResponseApi.cs",
-              "RelativeDocumentMoniker": "Common\\ResponseApi.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Common\\ResponseApi.cs",
-              "RelativeToolTip": "Common\\ResponseApi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T22:01:10.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T21:26:50.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "SharedUtils.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Common\\SharedUtils.cs",
+              "RelativeDocumentMoniker": "Common\\SharedUtils.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Common\\SharedUtils.cs",
+              "RelativeToolTip": "Common\\SharedUtils.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:45:53.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "books.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Models\\books.cs",
+              "RelativeDocumentMoniker": "Models\\books.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Models\\books.cs",
+              "RelativeToolTip": "Models\\books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:33:07.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListaBooks.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Shared\\ListaBooks.razor",
+              "RelativeDocumentMoniker": "Shared\\ListaBooks.razor",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Shared\\ListaBooks.razor",
+              "RelativeToolTip": "Shared\\ListaBooks.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T22:24:55.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T23:44:13.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T04:47:31.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T21:24:16.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "authors.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Models\\authors.cs",
+              "RelativeDocumentMoniker": "Models\\authors.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Models\\authors.cs",
+              "RelativeToolTip": "Models\\authors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:33:00.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Components\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-19T21:19:12.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FrontendBook.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\FrontendBook.csproj",
-              "RelativeDocumentMoniker": "FrontendBook.csproj",
-              "ToolTip": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\FrontendBook.csproj",
-              "RelativeToolTip": "FrontendBook.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-19T19:56:40.466Z",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T23:14:06.049Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListaBooks.razor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Shared\\ListaBooks.razor.cs",
+              "RelativeDocumentMoniker": "Shared\\ListaBooks.razor.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Shared\\ListaBooks.razor.cs",
+              "RelativeToolTip": "Shared\\ListaBooks.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:26:38.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResponseApi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Common\\ResponseApi.cs",
+              "RelativeDocumentMoniker": "Common\\ResponseApi.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\Common\\ResponseApi.cs",
+              "RelativeToolTip": "Common\\ResponseApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:01:10.065Z"
             }
           ]
         }

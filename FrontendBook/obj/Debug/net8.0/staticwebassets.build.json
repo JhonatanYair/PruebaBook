@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FeKrxu3Vwb81n5e+CrhNjwBMBPD8ItjsCzMZV1Jb+/M=",
+  "Hash": "5WOmCAbkjt6zJfDD58/4nzaiT19FaFjgNPUIxaZHd+Y=",
   "Source": "FrontendBook",
   "BasePath": "_content/FrontendBook",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "FrontendBook\\wwwroot",
       "Source": "FrontendBook",
-      "ContentRoot": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\",
       "BasePath": "_content/FrontendBook",
       "Pattern": "**"
     }
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\radzen.blazor\\4.34.4\\staticwebassets\\Radzen.Blazor.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FrontendBook.styles.css",
+      "Identity": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FrontendBook.styles.css",
       "SourceId": "FrontendBook",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FrontendBook",
       "RelativePath": "FrontendBook.styles.css",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FrontendBook.styles.css"
+      "OriginalItemSpec": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FrontendBook.styles.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontendBook.bundle.scp.css",
+      "Identity": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontendBook.bundle.scp.css",
       "SourceId": "FrontendBook",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FrontendBook",
       "RelativePath": "FrontendBook.bundle.scp.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontendBook.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontendBook.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\app.css",
       "SourceId": "FrontendBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\",
       "BasePath": "_content/FrontendBook",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "FrontendBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\",
       "BasePath": "_content/FrontendBook",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "FrontendBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\",
       "BasePath": "_content/FrontendBook",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\favicon.png",
       "SourceId": "FrontendBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\",
       "BasePath": "_content/FrontendBook",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

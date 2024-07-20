@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontendBook.bundle.scp.css",
+      "Id": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontendBook.bundle.scp.css",
       "PackagePath": "staticwebassets\\FrontendBook.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\app.css",
+      "Id": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\FrontendBook\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\FrontendBook\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F3BcyOUhcy7EwL5GSO810NVqoB6L21S8FoLkDBxuFPNMgq2ZLObPk9BcZ7pc9oBUQa9T084XObVXxKnpNU/e2A==",
+  "dgSpecHash": "8SwmGSDvWluNrf9aJiN4Ya1YJYkkPaNJJwjWFMhkU/PMo6Zj9xeKJtSXLWnBWOnAZWUGl77TO9QPKHCH25+mxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\Visual Studio 2022\\Proyectos\\ApiBookTest\\ApiBookTest.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\proyectosParaGit\\PruebaBook\\ApiBookTest\\ApiBookTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
