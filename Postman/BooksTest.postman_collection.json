@@ -1,0 +1,223 @@
+{
+	"info": {
+		"_postman_id": "0da60325-bb25-4b46-80df-b644499590ea",
+		"name": "BooksTest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "16425559"
+	},
+	"item": [
+		{
+			"name": "Book",
+			"item": [
+				{
+					"name": "CreateBook",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"title\": \"libro add\",\r\n  \"author_id\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:9080/api/Book",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "9080",
+							"path": [
+								"api",
+								"Book"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UpdateBook",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\":1,\r\n  \"title\": \"libro update\",\r\n  \"author_id\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:9080/api/Book/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "9080",
+							"path": [
+								"api",
+								"Book",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteBook",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:9080/api/Book/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "9080",
+							"path": [
+								"api",
+								"Book",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetBook",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:9080/api/Book/0",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "9080",
+							"path": [
+								"api",
+								"Book",
+								"0"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetBookAuthor",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:9080/api/Book/Author/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "9080",
+							"path": [
+								"api",
+								"Book",
+								"Author",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Author",
+			"item": [
+				{
+					"name": "GetAuthor",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:9080/api/Author/0",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "9080",
+							"path": [
+								"api",
+								"Author",
+								"0"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CreateAuthor",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"name\": \"Autor nuevo\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:9080/api/Author",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "9080",
+							"path": [
+								"api",
+								"Author"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UpdateAuthor",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\":10,\r\n  \"name\": \"Autor update\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:9080/api/Author/10",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "9080",
+							"path": [
+								"api",
+								"Author",
+								"10"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

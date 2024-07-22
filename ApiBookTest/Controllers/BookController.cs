@@ -21,6 +21,12 @@ namespace ApiBookTest.Controllers
             return Ok(await bookService.GetBooks(id));
         }
 
+        [HttpGet("Author/{idAuthor}")]
+        public async Task<IActionResult> GetBooksAuthor(int idAuthor)
+        {
+            return Ok(await bookService.GetBooksAuthor(idAuthor));
+        }
+
         [HttpPost]
         public async Task<IActionResult> CreateBook([FromBody] books book)
         {

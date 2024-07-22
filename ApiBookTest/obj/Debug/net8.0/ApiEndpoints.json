@@ -136,5 +136,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiBookTest.Controllers.BookController",
+    "Method": "GetBooksAuthor",
+    "RelativePath": "api/Book/Author/{idAuthor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAuthor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

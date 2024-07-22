@@ -57,6 +57,7 @@ Para construir y desplegar el proyecto, sigue estos pasos:
 
 ## Notas Adicionales
 
+- Puedes usar la colección de postman del proyecto para usar los endpoints del api.
 - Asegúrate de tener Docker y Docker Compose instalados y en ejecución en tu máquina.
 - Puedes revisar los logs de los contenedores con el comando:
 

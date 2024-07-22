@@ -32,6 +32,23 @@ namespace ApiBookTest.Service
             return responseApi;
         }
 
+        public async Task<ResponseApi> GetBooksAuthor(int idAuthor)
+        {
+            ResponseApi responseApi = new ResponseApi { Object = new List<books>(), CodeHttp = System.Net.HttpStatusCode.OK };
+            Expression<Func<books, bool>> query = null;
+
+            if (idAuthor != 0)
+            {
+                query = p => p.author_id == idAuthor;
+            }
+
+            Expression<Func<books, object>> includeBook = p => p.author;
+            List<books> listBooks = await _repository.ListRecords(query, includeBook);
+            responseApi.Object = listBooks;
+            responseApi.Response = $"Se encontraron {listBooks.Count} registros";
+            return responseApi;
+        }
+
         public async Task<ResponseApi> CreateBook(books book)
         {
             books bookCreate = await _repository.CreateRecord(book);
@@ -88,6 +105,7 @@ namespace ApiBookTest.Service
     public interface IBookService
     {
         Task<ResponseApi> GetBooks(int? id = 0);
+        Task<ResponseApi> GetBooksAuthor(int idAuthor);
         Task<ResponseApi> CreateBook(books book);
         Task<ResponseApi> UpdateBook(int id, books book);
         Task<ResponseApi> RemoveBook(int id);

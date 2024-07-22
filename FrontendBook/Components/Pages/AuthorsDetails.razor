@@ -38,13 +38,12 @@
 
     private async Task<List<books>> GetBooks()
     {
-        var response = await client.GetAsync($"{SharedUtils.urlEndpoint}/Book/{id}");
+        var response = await client.GetAsync($"{SharedUtils.urlEndpoint}/Book/Author/{id}");
         response.EnsureSuccessStatusCode();
         string responseBody = await response.Content.ReadAsStringAsync();
         ResponseApi responseAuthors = JsonConvert.DeserializeObject<ResponseApi>(responseBody);
         List<books> books = JsonConvert.DeserializeObject<List<books>>(responseAuthors.Object.ToString());
-        var filteredBooks = books.Where(book => book.author_id == (int?)id).ToList();
-        return filteredBooks;
+        return books;
     }
 
     protected override async Task OnInitializedAsync()
